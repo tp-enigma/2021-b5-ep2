@@ -9,5 +9,12 @@
 - Hervé
 
 # Roles
+- Saad: Scrum master
+- Jeremy: PO
+- Valérie Chantraine: Developer
+- Mamadou Aliou: Developer
+- Hervé: Developer
+- Benjamin: 
 
 # Proposal
+Todolist 
