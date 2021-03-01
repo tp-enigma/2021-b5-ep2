@@ -14,7 +14,7 @@
 - Valérie Chantraine: Developer
 - Mamadou Aliou: Developer
 - Hervé: Developer
-- Benjamin: 
+- Benjamin:Developer
 
 # Proposal
 Todolist 
