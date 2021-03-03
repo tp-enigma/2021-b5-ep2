@@ -24,3 +24,6 @@ https://github.com/jeremyVanackere/todo-list/
 
 # Lien pour la demo
 https://todolist-enigma.web.app/
+
+# Lien trello
+https://trello.com/invite/b/3ZoKaRRk/9b434a4be90286cc7bdd4b66b18ba781/borddev
